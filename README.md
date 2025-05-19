@@ -17,4 +17,4 @@ This repository contains solutions to the 4 programming problems provided by TAN
 Each Python file can be run independently. Example usage is provided in comments at the bottom of each file.
 
 ### Author
-Shubhankar (Your Name)
+Shubhankar 
